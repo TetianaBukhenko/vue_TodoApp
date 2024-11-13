@@ -21,8 +21,8 @@
         <input type="checkbox" class="todo__status"/>
       </label> 
         <span>todo</span></div>
-      <div class="todo">todo</div>
-      <div class="todo">todo</div>
+      <div class="todo">todo1</div>
+      <div class="todo">todo1</div>
      </section>
      <footer class="todoApp__footer">
       <div>
